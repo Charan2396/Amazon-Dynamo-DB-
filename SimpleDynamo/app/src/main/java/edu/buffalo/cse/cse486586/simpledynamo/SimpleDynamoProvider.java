@@ -5,13 +5,8 @@ package edu.buffalo.cse.cse486586.simpledynamo;
 // *******************************************************************************************************************************************************//
 // *******************************************************************************************************************************************************//
 // *******************************************************************************************************************************************************//
-// *****************************************************       REFERENCES ********************************************************************************//
 
-// 1. https://stackoverflow.com/questions/39571253/sqlite-table-constraint-unique-and-on-conflict-replace-usage
-// 2. https://www.tutorialspoint.com/android/android_sqlite_database.htm
-// 3. https://developer.android.com/guide/topics/providers/content-provider-creating.html#java
-// 4. Android Documentation
-// 5. http://myandroidnote.blogspot.com/2011/11/at-last-i-concluded-it-is.html
+
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
